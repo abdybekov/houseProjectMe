@@ -1,0 +1,42 @@
+.toComeIn {
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.inputLogin {
+    padding-right: 40vh;
+}
+
+.labelPass {
+    margin-top: 15px;
+}
+
+.password {
+    padding-right: 40vh;
+    /* margin-top: 30px; */
+}
+
+.submits {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.firstSubmit {
+    border: none;
+    background-color: #fff;
+    margin-right: 10px;
+    width: 100px;
+}
+
+.secondSubmit {
+    border-radius: 20px;
+    background-color: #fff;
+    border-color: aqua;
+    width: 100px;
+}

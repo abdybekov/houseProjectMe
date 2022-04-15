@@ -1,0 +1,32 @@
+.flexDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.main {
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mainWhoMe {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    width: 50%;
+}
+
+.desc {
+    width: 40%;
+}
+.oneImage {
+    width: 100%;
+    border-radius: 10px;
+}
